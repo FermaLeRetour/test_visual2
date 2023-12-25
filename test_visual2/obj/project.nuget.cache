@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qPisne64h2ylNvzASc52vbSCjjC85eCiTTbvG+eUmrN4mVKqgaCv3N/mT/GxmJaAIeri/Js95yNgIckKzUGlkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quent\\source\\repos\\test_visual2\\test_visual2\\test_visual2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quent\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

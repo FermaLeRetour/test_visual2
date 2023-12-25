@@ -1,0 +1,15 @@
+C:\Users\quent\source\repos\test_visual2\test_visual2\bin\Debug\net5.0\test_visual2.exe
+C:\Users\quent\source\repos\test_visual2\test_visual2\bin\Debug\net5.0\test_visual2.deps.json
+C:\Users\quent\source\repos\test_visual2\test_visual2\bin\Debug\net5.0\test_visual2.runtimeconfig.json
+C:\Users\quent\source\repos\test_visual2\test_visual2\bin\Debug\net5.0\test_visual2.runtimeconfig.dev.json
+C:\Users\quent\source\repos\test_visual2\test_visual2\bin\Debug\net5.0\test_visual2.dll
+C:\Users\quent\source\repos\test_visual2\test_visual2\bin\Debug\net5.0\test_visual2.pdb
+C:\Users\quent\source\repos\test_visual2\test_visual2\obj\Debug\net5.0\test_visual2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quent\source\repos\test_visual2\test_visual2\obj\Debug\net5.0\test_visual2.AssemblyInfoInputs.cache
+C:\Users\quent\source\repos\test_visual2\test_visual2\obj\Debug\net5.0\test_visual2.AssemblyInfo.cs
+C:\Users\quent\source\repos\test_visual2\test_visual2\obj\Debug\net5.0\test_visual2.csproj.CoreCompileInputs.cache
+C:\Users\quent\source\repos\test_visual2\test_visual2\obj\Debug\net5.0\test_visual2.dll
+C:\Users\quent\source\repos\test_visual2\test_visual2\obj\Debug\net5.0\refint\test_visual2.dll
+C:\Users\quent\source\repos\test_visual2\test_visual2\obj\Debug\net5.0\test_visual2.pdb
+C:\Users\quent\source\repos\test_visual2\test_visual2\obj\Debug\net5.0\test_visual2.genruntimeconfig.cache
+C:\Users\quent\source\repos\test_visual2\test_visual2\obj\Debug\net5.0\ref\test_visual2.dll
